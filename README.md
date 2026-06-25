@@ -21,10 +21,10 @@ CS grad from Cal State Long Beach. I build full-stack apps, ML pipelines, and da
 
 ---
 
-**Debut** · AI gym tracking app with pose estimation and form coaching
+**Debut** · AI gym tracking app with pose estimation, form coaching, and food logging
 
 **Vigil** · Real-time fall detection on Raspberry Pi
 
-**Influo** · Creator economy networking platform
+**Influo** · Creator networking platform
 
-**Cache** · Household food tracking app
+**Cache** · Household/Business food tracking app
