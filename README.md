@@ -1,4 +1,4 @@
-# Brandon Chau
+# Hi, I'm Brandon Chau
 
 CS grad from Cal State Long Beach. I build full-stack apps, ML pipelines, and data platforms.
 
